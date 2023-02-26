@@ -1,6 +1,7 @@
 .idea/
 .vscode/
 *.session
+*.session-journal
 settings.db
 cfg/config_tlg.py
 mp3/
