@@ -4,6 +4,7 @@
 settings.db
 cfg/config_tlg.py
 mp3/
+audio_files/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
