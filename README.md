@@ -18,3 +18,10 @@ sudo apt update && sudo apt install ffmpeg
 It is trained on a large dataset of diverse audio and is also a multi-task model that 
 can perform multilingual speech recognition as well as speech translation and language identification.
 
+# TODO
+
+- сделать настройку качества распознавания whisper_model
+- сделать настройку выбора языка распознавания text_language
+- узнать куда сохраняется модель распознавания аудио, чтобы при использовании докер контейнера 
+и его перезапуске не пришлось скачивать модель , так как как минимум 1,4Гб.
+- сделать Dockerfile для создания докер контейнера бота
